@@ -19,7 +19,7 @@
 
 ## 🧑‍💼 Professional Summary
 
-Motivated Software Engineering undergraduate with hands-on experience in designing and implementing full-stack web applications. Strong understanding of software architecture patterns (MVC, DAO), backend development, and responsive frontend interfaces.
+Motivated Software Engineering undergraduate with hands-on experience building full-stack web applications. Passionate about developing scalable, user-focused solutions and writing clean, maintainable code. Strong problem-solving skills with the ability to design, develop, and optimize real-world software systems. Continuously learning modern technologies to grow as a professional software engineer.
 
 ✔ Experience building reservation management systems  
 ✔ Strong problem-solving & debugging skills  
