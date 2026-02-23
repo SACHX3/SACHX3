@@ -3,6 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Sameera%20Chathuranga&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Software%20Engineer%20|%20Java%20%7C%20PHP%20%7C%20React%20%7C%20Python&descAlignY=55&descAlign=50" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SACHX3&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/SACHX3?label=Followers&style=for-the-badge&color=blue" />
+</p>
+
 # 👋 Hello, I'm Sameera Chathuranga
 
 🎓 Undergraduate Software Engineering Student  
